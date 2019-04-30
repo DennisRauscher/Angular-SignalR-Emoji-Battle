@@ -1,0 +1,14 @@
+C:\Entwicklung\Visual Studio Code\SideProjects\emojidefender\backend\bin\Debug\netcoreapp2.1\backend.deps.json
+C:\Entwicklung\Visual Studio Code\SideProjects\emojidefender\backend\bin\Debug\netcoreapp2.1\backend.runtimeconfig.json
+C:\Entwicklung\Visual Studio Code\SideProjects\emojidefender\backend\bin\Debug\netcoreapp2.1\backend.runtimeconfig.dev.json
+C:\Entwicklung\Visual Studio Code\SideProjects\emojidefender\backend\bin\Debug\netcoreapp2.1\backend.dll
+C:\Entwicklung\Visual Studio Code\SideProjects\emojidefender\backend\bin\Debug\netcoreapp2.1\backend.pdb
+C:\Entwicklung\Visual Studio Code\SideProjects\emojidefender\backend\obj\Debug\netcoreapp2.1\backend.csprojAssemblyReference.cache
+C:\Entwicklung\Visual Studio Code\SideProjects\emojidefender\backend\obj\Debug\netcoreapp2.1\backend.csproj.CoreCompileInputs.cache
+C:\Entwicklung\Visual Studio Code\SideProjects\emojidefender\backend\obj\Debug\netcoreapp2.1\backend.RazorAssemblyInfo.cache
+C:\Entwicklung\Visual Studio Code\SideProjects\emojidefender\backend\obj\Debug\netcoreapp2.1\backend.RazorAssemblyInfo.cs
+C:\Entwicklung\Visual Studio Code\SideProjects\emojidefender\backend\obj\Debug\netcoreapp2.1\backend.AssemblyInfoInputs.cache
+C:\Entwicklung\Visual Studio Code\SideProjects\emojidefender\backend\obj\Debug\netcoreapp2.1\backend.AssemblyInfo.cs
+C:\Entwicklung\Visual Studio Code\SideProjects\emojidefender\backend\obj\Debug\netcoreapp2.1\backend.RazorTargetAssemblyInfo.cache
+C:\Entwicklung\Visual Studio Code\SideProjects\emojidefender\backend\obj\Debug\netcoreapp2.1\backend.dll
+C:\Entwicklung\Visual Studio Code\SideProjects\emojidefender\backend\obj\Debug\netcoreapp2.1\backend.pdb
