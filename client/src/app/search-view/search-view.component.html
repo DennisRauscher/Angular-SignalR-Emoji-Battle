@@ -1,0 +1,50 @@
+<nb-card [nbSpinner]="searchingForOpponent" nbSpinnerStatus="danger" *ngIf="state == 0">
+  <nb-card-header>
+    Search
+  </nb-card-header>
+  <nb-card-body>
+    <p>
+      Currently {{gameService.currentPlayersOnline}} players online 👨‍👩‍👦‍👦
+    </p>
+    <button nbButton shape="rectangle" hero status="primary" (click)="aiActivated = false; searchForOpponent()">Search Opponent 💪</button>
+    <button nbButton shape="rectangle" hero status="primary" (click)="aiActivated = true; searchForOpponent();">Vs Evil AI 👿</button>
+  </nb-card-body>
+</nb-card>
+
+<div *ngIf="state > 0">
+  <nb-card nbSpinnerStatus="danger">
+    <nb-card-header>
+      You 👦
+    </nb-card-header>
+    <nb-card-body>
+      <button nbButton shape="round" status="primary" [disabled]="choosen != 0 && choosen != 1" [hero]="choosen == 1"
+        (click)="choose(1)">👻</button>
+      <button nbButton shape="round" status="primary" [disabled]="choosen != 0 && choosen != 2" [hero]="choosen == 2"
+        (click)="choose(2)">👽</button>
+      <button nbButton shape="round" status="primary" [disabled]="choosen != 0 && choosen != 3" [hero]="choosen == 3"
+        (click)="choose(3)">🤖</button>
+    </nb-card-body>
+  </nb-card>
+  <nb-card nbSpinnerStatus="danger">
+    <nb-card-header>
+      {{status}}
+    </nb-card-header>
+    <nb-card-body>
+      <nb-progress-bar [value]="getRemainingTimePrec()" status="primary">{{remainingTime}}s left</nb-progress-bar>
+    </nb-card-body>
+  </nb-card>
+  <nb-card nbSpinnerStatus="danger">
+    <nb-card-header>
+      <span *ngIf="!aiActivated">Opponent 👨‍</span>
+      <span *ngIf="aiActivated">AI 🤖</span>
+    </nb-card-header>
+    <nb-card-body>
+      <button nbButton shape="round" status="danger" [hero]="opponentChoosen == 1"
+        [disabled]="opponentChoosen != 1">👻</button>
+      <button nbButton shape="round" status="danger" [hero]="opponentChoosen == 2"
+        [disabled]="opponentChoosen != 2">👽</button>
+      <button nbButton shape="round" status="danger" [hero]="opponentChoosen == 3"
+        [disabled]="opponentChoosen != 3">🤖</button>
+    </nb-card-body>
+  </nb-card>
+</div>

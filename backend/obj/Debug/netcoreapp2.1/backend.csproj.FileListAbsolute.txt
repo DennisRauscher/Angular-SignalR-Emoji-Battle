@@ -12,3 +12,17 @@ C:\Entwicklung\Visual Studio Code\SideProjects\emojidefender\backend\obj\Debug\n
 C:\Entwicklung\Visual Studio Code\SideProjects\emojidefender\backend\obj\Debug\netcoreapp2.1\backend.RazorTargetAssemblyInfo.cache
 C:\Entwicklung\Visual Studio Code\SideProjects\emojidefender\backend\obj\Debug\netcoreapp2.1\backend.dll
 C:\Entwicklung\Visual Studio Code\SideProjects\emojidefender\backend\obj\Debug\netcoreapp2.1\backend.pdb
+C:\Users\Dennis\Desktop\Programming\ASP.NET\Emoji-Battle\backend\bin\Debug\netcoreapp2.1\backend.deps.json
+C:\Users\Dennis\Desktop\Programming\ASP.NET\Emoji-Battle\backend\bin\Debug\netcoreapp2.1\backend.runtimeconfig.json
+C:\Users\Dennis\Desktop\Programming\ASP.NET\Emoji-Battle\backend\bin\Debug\netcoreapp2.1\backend.runtimeconfig.dev.json
+C:\Users\Dennis\Desktop\Programming\ASP.NET\Emoji-Battle\backend\bin\Debug\netcoreapp2.1\backend.dll
+C:\Users\Dennis\Desktop\Programming\ASP.NET\Emoji-Battle\backend\bin\Debug\netcoreapp2.1\backend.pdb
+C:\Users\Dennis\Desktop\Programming\ASP.NET\Emoji-Battle\backend\obj\Debug\netcoreapp2.1\backend.csprojAssemblyReference.cache
+C:\Users\Dennis\Desktop\Programming\ASP.NET\Emoji-Battle\backend\obj\Debug\netcoreapp2.1\backend.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\Desktop\Programming\ASP.NET\Emoji-Battle\backend\obj\Debug\netcoreapp2.1\backend.RazorAssemblyInfo.cache
+C:\Users\Dennis\Desktop\Programming\ASP.NET\Emoji-Battle\backend\obj\Debug\netcoreapp2.1\backend.RazorAssemblyInfo.cs
+C:\Users\Dennis\Desktop\Programming\ASP.NET\Emoji-Battle\backend\obj\Debug\netcoreapp2.1\backend.AssemblyInfoInputs.cache
+C:\Users\Dennis\Desktop\Programming\ASP.NET\Emoji-Battle\backend\obj\Debug\netcoreapp2.1\backend.AssemblyInfo.cs
+C:\Users\Dennis\Desktop\Programming\ASP.NET\Emoji-Battle\backend\obj\Debug\netcoreapp2.1\backend.RazorTargetAssemblyInfo.cache
+C:\Users\Dennis\Desktop\Programming\ASP.NET\Emoji-Battle\backend\obj\Debug\netcoreapp2.1\backend.dll
+C:\Users\Dennis\Desktop\Programming\ASP.NET\Emoji-Battle\backend\obj\Debug\netcoreapp2.1\backend.pdb
