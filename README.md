@@ -11,7 +11,7 @@ The rules are simple:
 
 If both players choose the same the game will be replayed.
 
-[You can try it here. :)](http://www.dropwizard.io/1.0.2/docs/)
+[You can try it here soon :)]()
 
 ## What was used?
 
