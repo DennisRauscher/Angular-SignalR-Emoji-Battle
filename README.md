@@ -5,8 +5,11 @@ Emoji Battle is a Webbased realtime "Rock Paper Scissors" game where you can pla
 ## Rules Of The Game
 
 The rules are simple:
+
 👻 beats 👽
+
 👽 beats 🤖
+
 🤖 beats 👻
 
 If both players choose the same the game will be replayed.
@@ -28,17 +31,19 @@ Angular 7 and [Nebular](https://github.com/akveo/nebular) for the frontend & Asp
 
 To install this project on your own maschine for further development you can simply clone this repository and follow these steps:
 
-Run the Server:
+Rebuild & run the Server:
 
 ```
 > cd backend
+> dotnet restore
 > dotnet run
 ```
 
-Run the Client:
+Install dependencys and run the Client:
 
 ```
 > cd frontend
+> npm i
 > ng build --watch
 ```
 
