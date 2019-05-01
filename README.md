@@ -11,7 +11,7 @@ The rules are simple:
 
 If both players choose the same the game will be replayed.
 
-[You can try it here soon :)]()
+# [You can try it here](http://134.209.229.170)
 
 ## What was used?
 
