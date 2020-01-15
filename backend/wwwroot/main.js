@@ -63,7 +63,7 @@ var AppRoutingModule = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<nb-layout>\r\n  <nb-layout-header fixed>💣 Emoji Battle | 2019 🌍</nb-layout-header>\r\n\r\n  <nb-sidebar>\r\n\r\n  </nb-sidebar>\r\n\r\n  <nb-layout-column>\r\n    <router-outlet></router-outlet>\r\n  </nb-layout-column>\r\n</nb-layout>\r\n"
+module.exports = "<nb-layout>\r\n  <nb-layout-header fixed>💣 Emoji Battle | 2020 🌍</nb-layout-header>\r\n\r\n  <nb-sidebar>\r\n\r\n  </nb-sidebar>\r\n\r\n  <nb-layout-column>\r\n    <router-outlet></router-outlet>\r\n  </nb-layout-column>\r\n</nb-layout>\r\n"
 
 /***/ }),
 
