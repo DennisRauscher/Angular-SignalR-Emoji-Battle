@@ -16,6 +16,8 @@ If both players choose the same the game will be replayed.
 
 # [Try it 🕹️](http://134.209.229.170)
 
+If the demo is offline you can also start two instances of the frontend on your local build to run this.
+
 ![](demo/uiDemo.gif)
 
 ## Interesting bits for developers

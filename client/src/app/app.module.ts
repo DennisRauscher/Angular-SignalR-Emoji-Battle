@@ -9,7 +9,8 @@ import {
 	NbListModule,
 	NbSpinnerModule,
 	NbCardModule,
-	NbProgressBarModule
+	NbProgressBarModule,
+	NbIconModule
 } from '@nebular/theme';
 import { NbEvaIconsModule } from '@nebular/eva-icons';
 import { AppRoutingModule } from './app-routing.module';
@@ -42,7 +43,8 @@ const appRoutes: Routes = [
 		NbSpinnerModule,
 		NbCardModule,
 		NbProgressBarModule,
-		NbEvaIconsModule
+		NbEvaIconsModule,
+		NbIconModule
 	],
 	providers: [NbSidebarService, GameService],
 	bootstrap: [AppComponent]

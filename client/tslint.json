@@ -18,7 +18,11 @@
     "max-line-length": [
       true,
       140
-    ],
+	 ],
+	 "indent": [
+		 true,
+		 "tabs"
+	 ],
     "member-access": false,
     "member-ordering": [
       true,
@@ -71,6 +75,6 @@
     "use-pipe-transform-interface": true,
     "component-class-suffix": true,
 	 "directive-class-suffix": true,
-	 "indent": [true, "tabs", 2]
+	 "moduleResolution": "node"
   }
 }
