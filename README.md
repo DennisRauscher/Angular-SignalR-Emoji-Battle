@@ -1,4 +1,4 @@
-# Emoji Battle | Angular 7 + SignalR (.NET Core)
+# Emoji Battle | Angular 8 + SignalR (.NET Core)
 
 Emoji Battle is a Webbased realtime **Rock Paper Scissors** ➡️ "👻🤖👽" game where you can play versus a random opponent or versus a random AI.
 
@@ -21,6 +21,9 @@ If both players choose the same the game will be replayed.
 ## Interesting bits for developers
 
 Since this project makes use of SignalR which is Socket based, this game is played in "real time" against eighter a other human or the AI. Read more about Socket connections [here](https://de.wikipedia.org/wiki/Socket_(Software)). This game has a searching feature where the players are added to a searching que on the server. Also it shows the live count of players at the current moment.
+
+#####Architecture Diagram:
+![](demo/diagram.jpg)
 
 ## What was used?
 
