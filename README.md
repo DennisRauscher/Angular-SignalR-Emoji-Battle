@@ -1,3 +1,5 @@
+[![GitHub stars](https://img.shields.io/github/issues/DennisRauscher/Angular-SignalR-Emoji-Battle)](https://github.com/DennisRauscher/Angular-SignalR-Emoji-Battle/issues) [![GitHub stars](https://img.shields.io/github/stars/DennisRauscher/Angular-SignalR-Emoji-Battle.svg)](https://GitHub.com/DennisRauscher/Emoji-Battle/stargazers/) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/DennisRauscher)
+[![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://GitHub.com/DennisRauscher/) 
 # Emoji Battle | Angular 8 + SignalR (.NET Core)
 
 Emoji Battle is a Webbased realtime **Rock Paper Scissors** ➡️ "👻🤖👽" game where you can play versus a random opponent or versus a random AI.
